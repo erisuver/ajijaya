@@ -933,7 +933,7 @@
                     description: "Menggunakan sparepart original dan berkualitas tinggi",
                     icon: "✅"
                 }],
-                r = ["/images/service-1.jpg", "/images/service-2.jpg", "/images/service-3.jpg", "/images/service-4.jpg", "/images/service-5.jpg", "/images/service-6.jpg"]
+                r = ["images/service-1.jpg", "images/service-2.jpg", "images/service-3.jpg", "images/service-4.jpg", "images/service-5.jpg", "images/service-6.jpg"]
         },
         5906: (e, a, t) => {
             "use strict";
@@ -1537,3 +1537,4 @@
     }
 
 ]);
+
