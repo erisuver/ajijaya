@@ -852,7 +852,7 @@
             let s = {
                     name: "Ajijaya Automobile",
                     description: "Jasa service mobil dan sparepart terpercaya dengan pelayanan profesional dan berkualitas",
-                    url: "https://ajijaya-automobile.com",
+                    url: "",
                     ogImage: "/og.jpg",
                     links: {
                         whatsapp: "https://wa.me/6281234567890",
@@ -1535,4 +1535,5 @@
         var a = a => e(e.s = a);
         e.O(0, [455, 441, 684, 358], () => a(1034)), _N_E = e.O()
     }
+
 ]);
