@@ -345,7 +345,7 @@
                                 children: [(0, s.jsxs)("div", {
                                     className: "flex items-center space-x-3",
                                     children: [(0, s.jsx)("img", {
-                                        src: "/logo-ajijaya.png",
+                                        src: "logo-ajijaya.png",
                                         alt: "Ajijaya Automobile",
                                         className: "w-10 h-10 rounded-lg object-cover"
                                     }), (0, s.jsx)("span", {
@@ -598,7 +598,7 @@
                                 children: [(0, s.jsxs)("div", {
                                     className: "flex items-center space-x-3",
                                     children: [(0, s.jsx)("img", {
-                                        src: "/logo-ajijaya.png",
+                                        src: "logo-ajijaya.png",
                                         alt: "Ajijaya Automobile",
                                         className: "w-10 h-10 rounded-lg object-cover"
                                     }), (0, s.jsx)("span", {
@@ -1537,4 +1537,5 @@
     }
 
 ]);
+
 
