@@ -454,7 +454,7 @@
                                             className: "w-5 h-5 text-purple-600"
                                         }), (0, s.jsx)("span", {
                                             className: "text-slate-400 text-sm",
-                                            children: "Gelam Jaya, Kec. Ps. Kemis, Kabupaten Tangerang, Banten 15560"
+                                            children: "Bumi Indah, Kec. Ps. Kemis, Kabupaten Tangerang, Banten 15560"
                                         })]
                                     })]
                                 })]
@@ -858,7 +858,7 @@
                         whatsapp: "https://wa.me/6281234567890",
                         phone: "+6281234567890",
                         email: "info@ajijaya-automobile.com",
-                        address: "Bengkel mobil aji jaya automobile, Alamat lengkap : Gelam Jaya, Kec. Ps. Kemis, Kabupaten Tangerang, Banten 15560"
+                        address: "Bengkel mobil aji jaya automobile, Alamat lengkap : Bumi Indah, Kec. Ps. Kemis, Kabupaten Tangerang, Banten 15560"
                     }
                 },
                 n = [{
@@ -1191,7 +1191,7 @@
                         className: "w-6 h-6"
                     }),
                     label: "Alamat",
-                    value: "Gelam Jaya, Kec. Ps. Kemis, Kabupaten Tangerang, Banten 15560",
+                    value: "Bumi Indah, Kec. Ps. Kemis, Kabupaten Tangerang, Banten 15560",
                     action: () => window.open("https://maps.google.com/?q=".concat(encodeURIComponent(r.CQ.links.address)), "_blank"),
                     color: "bg-purple-600 hover:bg-purple-700"
                 }];
